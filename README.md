@@ -4,6 +4,12 @@
   </a>
 </div>
 
+# About this fork
+
+The main purpose of this fork is to make Ollama work on AMD iGPU systems. For this reason the following pull request has been included:
+
+https://github.com/ollama/ollama/pull/6282
+
 # Ollama
 
 Get up and running with large language models.
