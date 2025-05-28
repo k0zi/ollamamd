@@ -9,6 +9,7 @@
 The main purpose of this fork is to make Ollama work on AMD iGPU systems. For this reason the following pull request has been included:
 
 https://github.com/ollama/ollama/pull/6282
+
 https://blog.machinezoo.com/Running_Ollama_on_AMD_iGPU
 
 # Ollama
