@@ -12,6 +12,16 @@ https://github.com/ollama/ollama/pull/6282
 
 https://blog.machinezoo.com/Running_Ollama_on_AMD_iGPU
 
+### AMD GPU install
+
+If you have an AMD GPU, also download and extract the additional ROCm package:
+
+```shell
+curl -L https://ollama.com/download/ollama-linux-amd64-rocm.tgz -o ollama-linux-amd64-rocm.tgz
+sudo tar -C /usr -xzf ollama-linux-amd64-rocm.tgz
+```
+---
+
 # Ollama
 
 Get up and running with large language models.
